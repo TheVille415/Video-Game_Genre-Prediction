@@ -13,9 +13,10 @@ __pycache__/
 # Fire Image Datasets
 dataset/
 */dataset/
+dataset.zip
 
-# Keras Models
-model/
+# Model
+model/genre_model.h5
 
 # Images Downloaded for Testing
 test-assets/
