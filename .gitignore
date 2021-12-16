@@ -18,6 +18,9 @@ dataset.zip
 # Model
 model/genre_model.h5
 
+# ResNet50 weights
+resnet50weights\resnet50weights.h5
+
 # Images Downloaded for Testing
 test-assets/
 
